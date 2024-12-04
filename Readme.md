@@ -101,8 +101,8 @@ The **Superstore_Final** database consists of the following schemas and tables:
 ---
 ### 5. ERD(Entity Relationship Diagram)
 
- ![Final_Diagram.png]([Dataset\Final_Diagram.png](https://github.com/aayushsingh2708/Database_Design/blob/main/Dataset/Final_Diagram.png))
-- Open `Final_Diagram.png` to understand the relationships and structure of the database.
+- **File Provided**: ![Final_Diagram](Dataset/Final_Diagram.png)
+- The diagram illustrates the relationships and structure of the database.
 - Verify that your SQL Server tables match the structure outlined in the ERD.
 
 ---
