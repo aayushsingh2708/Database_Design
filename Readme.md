@@ -13,7 +13,8 @@ This README provides step-by-step instructions for setting up the project and wo
   - [2. Use DAX for Data Transformation](#2-use-dax-for-data-transformation)
   - [3. Export Data to SQL Server](#3-export-data-to-sql-server)
   - [4. Write DDL and DML Scripts](#4-write-ddl-and-dml-scripts)
-  - [5. Reference the ERD](#5.-erdentity-relationship-diagram)
+  - [5. Reference the ERD](#5-erdentity-relationship-diagram)
+- [Installation Instructions](#installation-instructions)
 - [Notes](#notes)
 
 ---
