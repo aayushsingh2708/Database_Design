@@ -90,14 +90,14 @@ The **Superstore_Final** database consists of the following schemas and tables:
 ### 4. Write DDL and DML Scripts
 
 - **Data Definition Language (DDL)**:
-  - Refer to the folder [DDl](DDL%20Files).
-  - Use the [DDL.ipynb](DDL%20Files\DDL.ipynb) file for code with the explanation as well.
-  - Use the [DDl.sql]((DDL%20Files\DDL.ipynb)) for directly using the code in SSMS
+  - Refer to the folder [DDl](https://github.com/aayushsingh2708/Database_Design/tree/main/DDL%20Files).
+  - Use the [DDL.ipynb](https://github.com/aayushsingh2708/Database_Design/blob/main/DDL%20Files/DDL.ipynb) file for code with the explanation as well.
+  - Use the [DDl.sql](https://github.com/aayushsingh2708/Database_Design/blob/main/DDL%20Files/DDL.sql) for directly using the code in SSMS
 
 - **Data Manipulation Language (DML)**:
-  - Refer to the folder [DML](DML%20Files).
-  - Use the [DML.ipynb](DML%20Files\DML.ipynb) file for code with the explanation as well.
-  - Use the [DMl.sql](DML%20Files\DML.sql) for directly using the code in SSMS
+  - Refer to the folder [DML](https://github.com/aayushsingh2708/Database_Design/tree/main/DML%20Files).
+  - Use the [DML.ipynb](https://github.com/aayushsingh2708/Database_Design/blob/main/DML%20Files/DML.ipynb) file for code with the explanation as well.
+  - Use the [DMl.sql](https://github.com/aayushsingh2708/Database_Design/blob/main/DML%20Files/DML.sql) for directly using the code in SSMS
 ---
 ### 5. ERD(Entity Relationship Diagram)
 
@@ -111,7 +111,7 @@ The **Superstore_Final** database consists of the following schemas and tables:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Superstore_Final.git
+   git clone https://github.com/aayushsingh2708/Database_Design.git
 
 ---
 
