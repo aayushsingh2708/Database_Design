@@ -6,14 +6,14 @@ This README provides step-by-step instructions for setting up the project and wo
 ## Table of Contents
 
 - [Project Overview](#🚀-project-overview)
+- [Project Overview](#data-overview)
 - [Prerequisites](#prerequisites)
 - [Schema Design](#🗂️-schema-design)
 - [Steps](#steps)
   - [1. Load Data into Power BI](#1-load-data-into-power-bi)
-  - [2. Use DAX for Data Transformation](#2-use-dax-for-data-transformation)
-  - [3. Export Data to SQL Server](#3-export-data-to-sql-server)
-  - [4. Write DDL and DML Scripts](#4-write-ddl-and-dml-scripts)
-  - [5. Reference the ERD](#5-erdentity-relationship-diagram)
+  - [3. Export Data to SQL Server](#2-export-data-to-sql-server)
+  - [3. Write DDL and DML Scripts](#3-write-ddl-and-dml-scripts)
+  - [4. Reference the ERD](#4-erdentity-relationship-diagram)
 - [Installation Instructions](#installation-instructions)
 - [Notes](#notes)
 
@@ -25,6 +25,11 @@ This project focuses on the creation of a **Superstore_Final database** using SQ
 - **Fact Tables** (`f` schema): Stores transactional data (e.g., Sales, Quantity, Profit).
 
 The aim is to build a scalable and normalized database that can be used for data analysis and business intelligence applications.
+
+## Data Overview
+
+This dataset contains sales transaction data, including details about customer orders, products, and shipping. It is structured to provide insights into various business dimensions such as **Order ID**, **Customer Information**, **Product Categories**, **Sales Performance**, and **Shipping Details**. The dataset includes key metrics like **Sales**, **Quantity**, **Profit**, and **Discount**, which can be used for **Business Intelligence (BI)** analysis to identify trends, optimize sales strategies, and improve inventory management. The data spans multiple years and covers a wide range of product categories, making it ideal for exploring customer behavior, sales performance, and profitability across different regions and segments.
+
 
 ## Prerequisites
 
@@ -88,7 +93,7 @@ The **Superstore_Final** database consists of the following schemas and tables:
 - **Verify Data**:
   - Run basic `SELECT` queries in SSMS to ensure the data has been imported correctly.
 
-### 4. Write DDL and DML Scripts
+### 3. Write DDL and DML Scripts
 
 - **Data Definition Language (DDL)**:
   - Refer to the folder [DDl](https://github.com/aayushsingh2708/Database_Design/tree/main/DDL%20Files).
@@ -100,7 +105,7 @@ The **Superstore_Final** database consists of the following schemas and tables:
   - Use the [DML.ipynb](https://github.com/aayushsingh2708/Database_Design/blob/main/DML%20Files/DML.ipynb) file for code with the explanation as well.
   - Use the [DMl.sql](https://github.com/aayushsingh2708/Database_Design/blob/main/DML%20Files/DML.sql) for directly using the code in SSMS
 ---
-### 5. ERD(Entity Relationship Diagram)
+### 4. ERD(Entity Relationship Diagram)
 
 ![Final_Diagram](Dataset/Final_Diagram.png)
 - The diagram illustrates the relationships and structure of the database.
