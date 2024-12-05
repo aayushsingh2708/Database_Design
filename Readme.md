@@ -6,7 +6,7 @@ This README provides step-by-step instructions for setting up the project and wo
 ## Table of Contents
 
 - [Project Overview](#🚀-project-overview)
-- [Project Overview](#data-overview)
+- [Data Overview](#data-overview)
 - [Prerequisites](#prerequisites)
 - [Schema Design](#🗂️-schema-design)
 - [Steps](#steps)
